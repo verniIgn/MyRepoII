@@ -1,0 +1,17 @@
+header {
+	background-color: orange;
+
+}
+
+article {
+	background-color: blue;
+
+}
+
+footer {
+	background-color: red;
+}
+
+p:nth-child(3n) {
+	background-color: purple;
+}
